@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer Back-End<br>A technology lover inspired by curiosity.
+🎮 Gamer at heart<br>, tech enthusiast<br>, and full-stack developer specializing in PHP/Laravel.
 
 
 ## 🌐 Socials:
