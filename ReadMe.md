@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Gamer at heart<br>, tech enthusiast<br>, and full-stack developer specializing in PHP/Laravel.
+🎮 Gamer at heart, <br>tech enthusiast, <br>and full-stack developer specializing in PHP/Laravel.
 
 
 ## 🌐 Socials:
